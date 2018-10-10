@@ -29,7 +29,14 @@ li a, .jumbotron button {
   font-weight: 300;
   font-family: 'Open Sans', sans-serif;
   color: #fff;
+}
 
+.pills {
+  background-color: #eeddcd;
+}
+
+.footer {
+  background-color: #eeddcd;
 }
 /* .featured {
   margin-bottom: 60px;
