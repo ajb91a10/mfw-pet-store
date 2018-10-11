@@ -1,0 +1,57 @@
+html {
+    background-color: #ffdf00;
+}
+.container-fluid {
+    background-color: #ffdf00;
+    padding: 2em;
+}
+.header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav {
+    background-color: green;
+    height: 50px;
+}
+
+section {
+    background-color: red;
+    height: 450px;
+}
+
+aside {
+    color: darkgrey;
+    background-color: aqua;
+    height: 450px;
+}
+
+.col-md-3 {
+    background-color: #ffc43e;
+    height: 150px;
+}
+
+footer {
+    background-color: blue;
+    height: 100px;
+}
+
+header, nav, section, aside, .col-md-3, footer {
+    border: 2px solid #000;
+}
+
+h5 {
+    text-align: center;
+}
+@media (min-width: 768px;) and (max-width: 870px;)
+ {
+   .side1 {
+     background-color: #737373;
+ }
+
+}
+
+
+
+
+Collapse 
